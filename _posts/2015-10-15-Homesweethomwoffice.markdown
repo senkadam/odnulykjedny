@@ -1,0 +1,19 @@
+---
+layout: post
+titleblog:  "odnulykjedny"
+title:  "Home, sweet home office"
+date:   2015-10-15 19:43:00"
+author: Adam Šenk
+categories: odnulykjedny
+tags:	startup homeoffice prokrastinace
+cover:  "/assets/back.jpg"
+---
+Mnozí z Vás tuto vymoženost dvacátého prvního století jistě znají a rádi využívají. Případně pokud máte práci, která Vám pracovat z domova neumožňuje, tak určitě všem co si home office čas od času mohou dovolit, závídíte. Jenže není všechno zlato, co se třpytí. Zkusím popsat, že ve chvíli, kdy začnete práci na vlastním projektu, se překážky kolikrát objeví tam, kde jste na ně nebyli zvyklí a kde byte je nečekali.
+
+Jasně, home office je skvělej institut. Jasně, není nad to s kocovinou, při které nemůžete udělat krok aniž byste měli pocit, že vám okamžitě praskne hala a umřete na to, jak je vám špatně, zůstat v posteli. Určitě je k nezaplacení, mít možnost zůstat doma, když k Vám zrovna mají dorazit řemeslníci, třeba vyměnit kotel. Případně pokud patříte mezi ty méně štastné, co už splodili potomstvo, asi neskutečně oceníte, že se nemusíte táhnout do officu ve chvíli kdy vaše dítě blouzní v horečkách. Ale když se podíváme na všechny zmíněný případy, je jasné, že z domova moc práce vykonat nezvládnete. O produktivitě člověka s kocovinou není nutno asi hluboce diskutovat... Zdálo by se, že ve chíli kdy máte doma řemeslníky, nemusí být tvůrčí činost u počítače nikterak komplikovaná. Pokud jste to ovšem nikdy nezkoušeli, tak věřte, že řemeslníci velmi rádi něčím mlátí. Například zbíječkou do zdi. A navíc pořád něco potřebují. Nejčastěji půjčit nářadí (jako šroubovák a kleště), které si zrovna náhodou dneska zapomněli. Takže produktivní v tu chvíli taky moc nebudete. O dětech sice nevím vůbec nic ale prý se říká, že je to taky starost.
+
+Nabízí se tedy otázka, proč vlastně firmy rádi svým zaměstnancům home office umožňují. Kdybych byl fanoušek konspiračních teorií, tak bych se přiklonil k názoru, že pro lidi sice není dost práce, ale ilumináti nechtějí dovolit lidem pracovat kratší dobu a míň dnů v týdnu, protože by pak lidé měli sílu a čas přemýšlet, což by vedlo k revoluci a ke zborcení systému ve kterém žijeme, a který je pro pár mocných hrozně výhodný. Předcházející věta je samozřejmně strašný nesmysl, z mnoha důvodů. Například, kvůli použití slova ilumináti. Nebo kvůli názoru, že většina lidí by volný čas využila k přípravě revoluce a né k čumění na bednu. Podle mě jednoduché vysvětlení je, že firmy nechtějí hnát lidi do práce, když zrovna nic nehoří, ale chtějí mít páku jak je donutit pracovat více, když něco hoří. Jasně, máme tu prd co dělat, klidně si doma tu kočku vyspi. Nebo opačně, hoří nám projekt, prostě to musíš dodělat, i kdybys měl chcípnout. (Ano Honzo, chápeme, že by jsi taky rád jednou týdně viděl děti, ale za 14 dní s tím produktem jdeme ven, tak to ještě vydrž, díky...)
+
+Ok, takže home office je super. Velkou výhodou je, že pokud pracujete sám na sebe, můžete mít home office každý den. Zní to jako sen. Ale nic není černobílé. Protože, když pracujete sám na sebe, tak během home officu pracovat musíte, nebo minimálně byste chtěli. A když vám to pak nejde, trpíte výčitkama svědomí, špatnou nálado a podobnýma příznakama. A jak jsem již popsal, pracovat doma není snadné. Já osobně mám rád nějakou pěknou kombinaci komplikujících faktorů. Například kocovinu kombinovanou s bušením zbíječky za hlavou. Takže, potřebujete pracovat a doma vám to nejde. Otázka je, co teď s tím. V uplynulých týdnech jsem naštěstí začal objevovat možnosti jak zmíněné překážky překonávat, případně obcházet. Ale o tom až jindy.
+
+A navíc jsou chvíle kdy práci z domova fakt oceníte. Když najednou zjistíte, že je dvanáct v noci, popíjíte víno, hraje vám deska a vy pracujete a baví vás to. To pak najednou práce na své vlastní věci dává až neuveřitelný smysl.
