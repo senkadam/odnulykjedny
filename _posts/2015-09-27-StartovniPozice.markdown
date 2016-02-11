@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "odnulykjedny"
+titleblog:  "odnulykjedny"
 title:  "Startovní pozice"
 date:   2015-09-27 21:56:00"
 author: Adam Šenk

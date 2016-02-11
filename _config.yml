@@ -38,10 +38,10 @@ jekyll-archives:
     tag: '/tag/:name/'
 
 # Disqus comments
-disqus_shortname: odnulykjedny
+disqus_shortname: howtodata
 
 # Google analytics
-ga_tracking_id: "UA-71741502-1"
+ga_tracking_id: "UA-73674476-1"
 
 # Category descriptions (for archive pages)
 descriptions:
