@@ -1,8 +1,8 @@
 ---
 layout: post
 titleblog:  "odnulykjedny"
-title:  "Nomáde"
-date:   2015-09-27 21:56:00"
+title:  "Startovní pozice"
+date:   2015-07-27 21:56:00"
 author: Ejdý
 categories: odnulykjedny
 tags:	startup bedny nonstop kalby krach
