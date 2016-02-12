@@ -3,7 +3,7 @@ layout: post
 titleblog:  "odnulykjedny"
 title:  "Jak psát blog"
 date:   2016-02-11 18:44:00"
-author: Adam Šenk
+author: Ejdý
 categories: odnulykjedny
 tags:	startup psani blog prokrastinace
 cover:  "/assets/back.jpg"

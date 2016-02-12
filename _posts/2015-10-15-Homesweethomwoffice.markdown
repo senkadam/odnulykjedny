@@ -3,7 +3,7 @@ layout: post
 titleblog:  "odnulykjedny"
 title:  "Home, sweet home office"
 date:   2015-10-15 19:43:00"
-author: Adam Šenk
+author: Ejdý
 categories: odnulykjedny
 tags:	startup homeoffice prokrastinace
 cover:  "/assets/back.jpg"
