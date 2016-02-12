@@ -2,7 +2,7 @@
 layout: post
 titleblog:  "odnulykjedny - Nomádem v Izraeli"
 title:  "Den první aneb dokud nemáme v Evropě ploty"
-date:   2016-02-12 22:56:00"
+date:   2016-02-12 23:56:00"
 author: Ejdý
 categories: izrael
 tags:	nomad izrael hranice kontrola tel-aviv

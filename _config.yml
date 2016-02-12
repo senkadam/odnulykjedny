@@ -37,6 +37,8 @@ jekyll-archives:
     category: '/category/:name/'
     tag: '/tag/:name/'
 
+future: true
+
 # Disqus comments
 disqus_shortname: howtodata
 
