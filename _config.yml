@@ -47,11 +47,11 @@ ga_tracking_id: "UA-73674476-1"
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: jekyll
-    desc: "Posts describing Jekyll setup techniques."
+  - cat: odnulykjedny
+    desc: "Prostě osobní posty bez speciální kategorie. O podnikání, politice a životě a podobných nesmyslech"
 
-  - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+  - cat: izrael
+    desc: "Zápisky z nomádských cest."
 
 # Social icons and sharing options
 #
