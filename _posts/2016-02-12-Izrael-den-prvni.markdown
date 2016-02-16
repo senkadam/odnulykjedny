@@ -1,23 +1,20 @@
 ---
 layout: post
 titleblog:  "odnulykjedny - Nomádem v Izraeli"
-title:  "Divňák v hostelu"
-date:   2016-02-16 22:16:00"
+title:  "Den první aneb dokud nemáme v Evropě ploty"
+date:   2016-02-12 23:56:00"
 author: Ejdý
 categories: izrael
-tags:	nomad izrael prace
+tags:	nomad izrael hranice kontrola tel-aviv
 cover:  "/assets/back.jpg"
 ---
 
-Téma  dnešního postu je vlastně velmi jednoduchý. Bydlíte někdy na hostelech? A znáte takový ty týpky co se v podstatě celý den nehnou z hostelu, jenom čumí do mobilu nebo do PC? A taky Vám to přijde divný? Proč někdo cestuje, když neopustí hostel. Tak přesně po bok těhle divňáků jsem se zařadil já.
+Kdo mě znáte, mohli jste tušit, že se ve svém blogu politice nedokážu stoprocentně vyhýbat. Tak teď je tu první politicko cestovatelský komentář.
 
- Celej den zevlim na hostelu a koukám do notebooku. Naštěstí já mám pro sebe omluvu. Já svádím těžký boj, kterému se říká "nomádství". Odcestovat někam tisíce kilometrů, abyste mohli koukat do notebooku jako byste zůstali doma. Nechci být moc chytrej a hodnotit nomádství po prvních pěti dnech. Jenom pár poznámek co jsem zatim pochopil. Chce to sebekontrolu, je to prostě těžké přinutit se k práci v prostředí, které evokuje dovolenou. Na druhou stranu, když si člověk srovná v hlavě, že když už musí pracovat tak je pořád lepší pracovat venku ve 20 stupních na střeše hostelu než někde v kanceláři. To se potom dá bojovat úspěšně.
+Dnes dopoledne jsem odlítal z Prahy směrem Tel-Aviv. Kluci Izraelský si mě na letišti povodili jak malýho kluka. Celá chyba vnikla tím, že jsem měl v pase Malajsijský víza. A někdo, kdo se tři týdny pohyboval v muslimský zemi je celkem automaticky dost divnej. Navíc moje znalosti angličtiny se pohybují někde na úrovní českého nadprůměru a silně pod průměrem holandského autobusáka. Žít se s tim dá, ale vysvětlovat s takovými jazykovými znalostmi, že nejste terorista a nezamotat se do toho, to už je celkem fuška. Naštětí po totální prohlídce všech zavazadel se ukázalo, že žádnou bombu nevezu, tak jsem mohl odletět.
 
-A co jsem dělal ve chvílích, kdy jsem se od notebooku zvedl? Prošel jsem si Tel-Aviv, hlavně Jaffu. Byl si dvakrát zaběhat. Běh podél moře je prostě příjemná změna oproti Vítkovu. Jednou jsem poseděl večer na Overstayackym baru (4 piva na 4 dny je celkem odpustitelný skóre). A tady máte dvě fotky;)
+Nechci klukům Izraelskejm nic vyčítat, jejich přístup je naprosto pochopitelný, navíc byli maximálně slušný. Dlužno dodat, že třeba vyhrožování trestem smrti za drogy v Singapuru, mě děsilo o něco více. Člověk si ale v těhle chvílích uvědomí, jak je fajn žít bez hranic. Nemuset vysvětlovat celníkům kam a proč jedu, netřást se jestli mi to dovolí, prostě necítit, jak má někdo váš osud v rukou. Je dost smutný jaké se v naší společnosti těší podpoře všichni Zemanové, Okamurové, Konvičkové, Ficové a další, kteří volají po stavbě nových plotů a zdí. Na druhou stranu je pravda, že pokud jste člověk, jehož největším cestovatelským počinem je nedělní výlet z Kralup do kina do Leťnan, nemusí Vám dojít, jak je fajn, zajet si o víkendu do Berlína, stejně tak snadno jako do těch Letnǎn.  
 
-![Tel-Aviv-1](/odnulykjedny/imgs/G0022134.JPG)
+V Tel-Avivu mě čekal suprovej hostel Overstay, kterej už mám ověřenej z Bangkoku. Je pravda, že tento izraelský bratříček, je oproti tomu Thajskému velkej slušnák ale i tak je atmosféra hodně příjemná. Trávu, ale na baru neprodávaj.
 
-![Tel-Aviv-2](/odnulykjedny/imgs/GOPR2128.JPG)
-
-
-Zítra se přesouvám na pár dní do Haify, tak uvidíme jak to se mnou bude pokračovat.
+Zítra snad už dodám fotky, a nějakej lepší popis Tel-Avivu samotnýho;)
